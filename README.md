@@ -1,4 +1,7 @@
 # TensorFlow-Advanced-Techniques-Specialization
+
+![](https://github.com/ashishpatel26/TensorFlow-Advanced-Techniques-Specialization/blob/main/images/main.jpg)
+
 Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution 
 
 ## Course 1: Custom Models, Layers, and Loss Functions with TensorFlow
