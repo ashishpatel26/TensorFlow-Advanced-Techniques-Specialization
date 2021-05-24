@@ -1,5 +1,7 @@
 # TensorFlow-Advanced-Techniques-Specialization
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 ![](https://github.com/ashishpatel26/TensorFlow-Advanced-Techniques-Specialization/blob/main/images/main.jpg)
 
 Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution 
@@ -8,13 +10,12 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 
 ![](https://github.com/ashishpatel26/TensorFlow-Advanced-Techniques-Specialization/blob/main/images/Course1.jpg)
 
-* [Week 1 - Functional APIs](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%201%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201)
-
-* [Week 2 - Custom Loss Functions](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%201%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%202)
-
-* [Week 3 - Custom Layers](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%201%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%203)
-
-* [Week 4 - Custom Models, Layers, and Loss Functions with TensorFlow](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%201%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%204)
+| Sr   | Weeks                                                        | Link                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | **Functional API**                                           | [Link](https://github.com/ashishpatel26/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%201%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201) |
+| 2    | **Custom Loss Functions**                                    | [Link](https://github.com/ashishpatel26/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%201%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%202) |
+| 3    | **Custom Layers**                                            | [Link](https://github.com/ashishpatel26/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%201%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%203) |
+| 4    | **Custom Models, Layers, and Loss Functions with Tensorflow** | [Link](https://github.com/ashishpatel26/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%201%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%204) |
 
 ## Course 2: Custom and Distributed Training with TensorFlow
 
